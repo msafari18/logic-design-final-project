@@ -1,0 +1,20 @@
+{E:/university/manteqi sediqi/modelsim/main.v} {1 {vlog -work work -vopt {E:/university/manteqi sediqi/modelsim/main.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module DFF
+-- Compiling module JKFF
+-- Compiling module BCounter
+-- Compiling module combin_al
+-- Compiling module combin_bl
+-- Compiling module E_comparator
+-- Compiling module decoder
+-- Compiling module combin_A
+-- Compiling module combin_B
+-- Compiling module traffic_light_control_system
+-- Compiling module binaryToBcd
+-- Compiling module test
+
+Top level modules:
+	binaryToBcd
+	test
+
+} {} {}}
